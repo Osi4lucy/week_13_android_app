@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ImageRecyclerApp</string>
+    <string-array name="image_title">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+        <item>Image 7</item>
+        <item>Image 8</item>
+        <item>Image 9</item>
+        <item>Image 10</item>
+    </string-array>
+    <string-array name="image_description">
+        <item>Beautiful nature and bright skies.</item>
+        <item>Bored staying at home? Take a walk.</item>
+        <item>One of my favourite windows background.</item>
+        <item>Watch tower at the river bank.</item>
+        <item>I love sun flowers.</item>
+        <item>Check this tower at the sea side.</item>
+        <item>Beautiful mountains covered with snow.</item>
+        <item>Feel the beauty of the skies.</item>
+        <item>Good deco?.</item>
+        <item>Beauty of the rising sun.</item>
+    </string-array>
+
+</resources>
